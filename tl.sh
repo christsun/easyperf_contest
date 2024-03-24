@@ -1,0 +1,1 @@
+toplev -l3 --single-thread --run-sample --core C0 taskset -c 0 sudo ./build/${1}
